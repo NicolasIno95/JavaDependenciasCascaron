@@ -1,0 +1,22 @@
+ [
+    {
+        "id": 1,
+        "name": "Playstation 5",
+        "price": 1000
+    },
+    {
+        "id": 2,
+        "name": "Xbox Series X",
+        "price": 800
+    },
+    {
+        "id": 3,
+        "name": "Horno para Pizza Rojo",
+        "price": 250
+    },
+    {
+        "id": 4,
+        "name": "Chaqueta pluma negra",
+        "price": 612
+    }
+ ]
